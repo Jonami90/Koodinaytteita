@@ -1,0 +1,36 @@
+#header {
+    height: 40px;
+    line-height: 40px;
+    background: rgb(153,31,61);
+    color: #FFF;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#controls div {
+    padding: 10px;
+}
+
+#controls button {
+    margin-left: 10px;
+}
+
+#employeeList {
+    display: table;
+    width: 70%;
+    padding: 10px;
+}
+
+#employeeList span {
+    display: table-cell;
+}
+
+#employeeList .list-header,
+#employeeList .list-row {
+    display: table-row;
+}
+
+#employeeList .list-header {
+    background: rgb(153,31,61);
+    color: #FFF;
+}
