@@ -1,0 +1,13 @@
+Joonas Melanen 14TIKOPeli
+
+Ohjelma suoritetaan komentorivilt‰ k‰sin. Ennen ensimm‰ist‰ k‰yttˆ‰ kannattaa varmuuden vuoksi ajaa javac
+kaikille eri .java-tiedostoille.
+P‰‰ohjelmana toimii GameProgram.java. Komentorivill‰ ohjelma suoritetaan komennolla java GameProgram.
+
+Ohjelma kertoo k‰ytt‰j‰lle, ett‰ se sis‰lt‰‰ nelj‰n eri pelin tiedot. T‰m‰n j‰lkeen se pyyt‰‰ k‰ytt‰j‰‰
+antamaan yhden numeron yhdest‰ nelj‰‰n (1-4). Muut luvut tai kirjaimet aiheuttavat virheen, mik‰ sulkee
+ohjelman.
+
+T‰m‰n j‰lkeen ohjelma tulostaa n‰ytˆlle valitun pelin tiedot (nimi, kehitt‰j‰, julkaisuvuosi ja tyyppi)
+ja kuvauksen pelist‰ itsest‰‰n (suosittelen laajentamaan komentorivin koko ruudulle). T‰m‰n tehty‰‰n ohjelma
+sulkee itsens‰. Jos k‰ytt‰j‰ haluaa n‰hd‰ muiden pelien tiedot, t‰ytyy ohjelma ajaa uudestaan.
